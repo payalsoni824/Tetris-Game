@@ -63,8 +63,8 @@ width: 20px;
 
 .mini-grid {
     margin-left: 50px;
-    width: 110px;
-    height: 110px;
+    width: 80px;
+    height: 80px;
     display: flex;
     flex-wrap: wrap;
     background-color: rgba(98, 0, 255, 0.137);
